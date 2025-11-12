@@ -1,3 +1,5 @@
 ls - Lista os arquivos de onde você está.
 cd - Move você entre os diretórios/pasta
 pwd - Mostra o caminho ou o diretório de trabalho
+cat - Exibe conteúdo do arquivo
+rm - remove arquivo ou diretório 
