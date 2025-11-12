@@ -1,0 +1,3 @@
+ls - Lista os arquivos de onde você está.
+cd - Move você entre os diretórios/pasta
+pwd - Mostra o caminho ou o diretório de trabalho
