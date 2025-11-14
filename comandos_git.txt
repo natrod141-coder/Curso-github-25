@@ -7,7 +7,7 @@ git log -> Mostra todo o histórico de commit's
 ## Fluxo de trabalho 
 
 1- criar um diretório do projeto 
-2- iniciar o git dentro do diretório criado(git init .) 
+2- iniciar o git dentro do diretório (pasta) criado (git init .) 
 3- Edita ou cria arquivos 
 4- git status 
 5- git add nome arquivo 
@@ -15,3 +15,4 @@ git log -> Mostra todo o histórico de commit's
 7- git commit -m "Mensagem"
 8- git status 
 9- voltar para o passo 3 
+10- jgyhj
