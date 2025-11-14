@@ -1,3 +1,6 @@
 Este arquivo contém comandos adicionais para git 
 - primeiro
 - secundo
+
+# comandos mais genéricos 
+- comandos estranhos
