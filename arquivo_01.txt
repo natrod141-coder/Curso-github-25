@@ -1,1 +1,4 @@
-meudeus que saco esse curso.
+<<<<<<< HEAD
+meudeus que saco esse curso.!
+=======
+
