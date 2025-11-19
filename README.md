@@ -12,8 +12,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e VScode.
 
 Confira tudo o que temos no nosso youtube. É grátis!
 
-Aproveite tudo
-
+Aproveite tudo 
+Viaje nesse curso
 -----
 
 ## Fluxo de trabalho Git local
